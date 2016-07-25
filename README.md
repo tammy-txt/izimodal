@@ -20,9 +20,9 @@ Or install it yourself as:
 
     $ gem install izimodal
 
-## Usage
+## Usage Rails 
 
-TODO: Write usage instructions here
+    gem 'izimodal'
 
 ## Development
 
